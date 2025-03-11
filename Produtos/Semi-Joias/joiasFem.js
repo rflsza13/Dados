@@ -80,13 +80,13 @@ const tornozeleiras = [
 ];
 
 //Exportação
-sessionStorage.setItem("aneisJoiasFem", JSON.stringify(aneis));
-sessionStorage.setItem("brincosJoiasFem", JSON.stringify(brincos));
-sessionStorage.setItem("colaresJoiasFem", JSON.stringify(colares));
-sessionStorage.setItem("correntesJoiasFem", JSON.stringify(correntes));
-sessionStorage.setItem("pingentesJoiasFem", JSON.stringify(pingentes));
-sessionStorage.setItem("piercingJoiasFem", JSON.stringify(piercing));
-sessionStorage.setItem("pulseirasJoiasFem", JSON.stringify(pulseiras));
-sessionStorage.setItem("pulseirasInfJoiasFem", JSON.stringify(pulseirasInf));
-sessionStorage.setItem("tiarasJoiasFem", JSON.stringify(tiaras));
-sessionStorage.setItem("tornozeleirasJoiasFem", JSON.stringify(tornozeleiras));
+sessionStorage.setItem("AnéisJoiasFem", JSON.stringify(aneis));
+sessionStorage.setItem("BrincosJoiasFem", JSON.stringify(brincos));
+sessionStorage.setItem("ColaresJoiasFem", JSON.stringify(colares));
+sessionStorage.setItem("CorrentesJoiasFem", JSON.stringify(correntes));
+sessionStorage.setItem("PingentesJoiasFem", JSON.stringify(pingentes));
+sessionStorage.setItem("PiercingJoiasFem", JSON.stringify(piercing));
+sessionStorage.setItem("PulseirasJoiasFem", JSON.stringify(pulseiras));
+sessionStorage.setItem("PulseirasInfJoiasFem", JSON.stringify(pulseirasInf));
+sessionStorage.setItem("TiarasJoiasFem", JSON.stringify(tiaras));
+sessionStorage.setItem("TornozeleirasJoiasFem", JSON.stringify(tornozeleiras));

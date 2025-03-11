@@ -1,4 +1,4 @@
-// Produtos em Pedra Brasileira Femininos
+// Produtos em Semi-Joias Masculinos
 const aneis = [
     {
         descricao: "",
@@ -15,7 +15,7 @@ const brincos = [
     }
 ];
 
-const colares = [
+const correntes = [
     {
         descricao: "",
         valor: "",
@@ -39,10 +39,9 @@ const pulseiras = [
     }
 ];
 
-
 //Exportação
-sessionStorage.setItem("aneisPedraBrasilFem", JSON.stringify(aneis));
-sessionStorage.setItem("brincosPedraBrasilFem", JSON.stringify(brincos));
-sessionStorage.setItem("colaresPedraBrasilFem", JSON.stringify(colares));
-sessionStorage.setItem("pingentesPedraBrasilFem", JSON.stringify(pingentes));;
-sessionStorage.setItem("pulseirasPedraBrasilFem", JSON.stringify(pulseiras));
+sessionStorage.setItem("AnéisJoiasMasc", JSON.stringify(aneis));
+sessionStorage.setItem("BrincosJoiasMasc", JSON.stringify(brincos));
+sessionStorage.setItem("CorrentesJoiasMasc", JSON.stringify(correntes));
+sessionStorage.setItem("PingentesJoiasMasc", JSON.stringify(pingentes));
+sessionStorage.setItem("PulseirasJoiasMasc", JSON.stringify(pulseiras));

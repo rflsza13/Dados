@@ -71,8 +71,8 @@ const pulseiras = [
 ];
 
 //Exportação
-sessionStorage.setItem("p_aneis_masc", JSON.stringify(aneis));
-sessionStorage.setItem("p_brincos_masc", JSON.stringify(brincos));
-sessionStorage.setItem("p_correntes_masc", JSON.stringify(correntes));
-sessionStorage.setItem("p_pingentes_masc", JSON.stringify(pingentes));
-sessionStorage.setItem("p_pulseira_masc", JSON.stringify(pulseiras));
+sessionStorage.setItem("AnéisPrataMasc", JSON.stringify(aneis));
+sessionStorage.setItem("BrincosPrataMasc", JSON.stringify(brincos));
+sessionStorage.setItem("CorrentesPrataMasc", JSON.stringify(correntes));
+sessionStorage.setItem("PingentesPrataMasc", JSON.stringify(pingentes));
+sessionStorage.setItem("PulseiraPrataMasc", JSON.stringify(pulseiras));
