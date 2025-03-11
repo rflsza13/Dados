@@ -1,33 +1,37 @@
 // Produtos em Prata Masculinos
 const aneis = [
     {
-        descricao: "Anel trançado",
-        valor: "R$75",
-        img: ""
+        titulo: "Produto 1",
+        descricao: "Uma descrição rápida sobre o produto!!",
+        valor: "R$190",
+        img: "https://cdn.awsli.com.br/2500x2500/1931/1931120/produto/111965939/img_0024-xmnc3tw33r.jpeg"
     }
 ];
 
 const brincos = [
     {
-        descricao: "",
-        valor: "",
-        img: ""
+        titulo: "Produto 1",
+        descricao: "Uma descrição rápida sobre o produto!!",
+        valor: "R$190",
+        img: "https://cdn.awsli.com.br/2500x2500/1931/1931120/produto/111965939/img_0024-xmnc3tw33r.jpeg"
     }
 ];
 
 const correntes = [
     {
-        descricao: "",
-        valor: "",
-        img: ""
+        titulo: "Produto 1",
+        descricao: "Uma descrição rápida sobre o produto!!",
+        valor: "R$190",
+        img: "https://cdn.awsli.com.br/2500x2500/1931/1931120/produto/111965939/img_0024-xmnc3tw33r.jpeg"
     }
 ];
 
 const pingentes = [
     {
-        descricao: "",
-        valor: "",
-        img: ""
+        titulo: "Produto 1",
+        descricao: "Uma descrição rápida sobre o produto!!",
+        valor: "R$190",
+        img: "https://cdn.awsli.com.br/2500x2500/1931/1931120/produto/111965939/img_0024-xmnc3tw33r.jpeg"
     }
 ];
 
