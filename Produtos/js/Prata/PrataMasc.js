@@ -33,22 +33,40 @@ const pingentes = [
 
 const pulseiras = [
     {
-        titulo: "Pulseira Trança Baiana",
-        descrição: "Uma descrição rápida sobre o produto!!",
+        titulo: "Produto 1",
+        descricao: "Uma descrição rápida sobre o produto!!",
         valor: "R$190",
-        img: ""
+        img: "https://cdn.awsli.com.br/2500x2500/1931/1931120/produto/111965939/img_0024-xmnc3tw33r.jpeg"
     },
     {
-        titulo: "Pulseira Trança Baiana",
-        descrição: "Uma descrição rápida sobre o produto!!",
+        titulo: "Produto 2",
+        descricao: "Uma descrição rápida sobre o produto!!",
         valor: "R$180",
-        img: ""
+        img: "https://cdn.awsli.com.br/2500x2500/1931/1931120/produto/111965939/img_0024-xmnc3tw33r.jpeg"
     },
     {
-        titulo: "Pulseira Trança Baiana",
-        descrição: "Uma descrição rápida sobre o produto!!",
+        titulo: "Produto 3",
+        descricao: "Uma descrição rápida sobre o produto!!",
         valor: "R$170",
-        img: ""
+        img: "https://cdn.awsli.com.br/2500x2500/1931/1931120/produto/111965939/img_0024-xmnc3tw33r.jpeg"
+    },
+    {
+        titulo: "Produto 4",
+        descricao: "Uma descrição rápida sobre o produto!!",
+        valor: "R$160",
+        img: "https://cdn.awsli.com.br/2500x2500/1931/1931120/produto/111965939/img_0024-xmnc3tw33r.jpeg"
+    },
+    {
+        titulo: "Produto 5",
+        descricao: "Uma descrição rápida sobre o produto!!",
+        valor: "R$150",
+        img: "https://cdn.awsli.com.br/2500x2500/1931/1931120/produto/111965939/img_0024-xmnc3tw33r.jpeg"
+    },
+    {
+        titulo: "Produto 6",
+        descricao: "Uma descrição rápida sobre o produto!!",
+        valor: "R$140",
+        img: "https://cdn.awsli.com.br/2500x2500/1931/1931120/produto/111965939/img_0024-xmnc3tw33r.jpeg"
     }
 ];
 
