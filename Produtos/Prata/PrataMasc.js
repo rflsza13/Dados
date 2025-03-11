@@ -75,4 +75,4 @@ sessionStorage.setItem("AnéisPrataMasc", JSON.stringify(aneis));
 sessionStorage.setItem("BrincosPrataMasc", JSON.stringify(brincos));
 sessionStorage.setItem("CorrentesPrataMasc", JSON.stringify(correntes));
 sessionStorage.setItem("PingentesPrataMasc", JSON.stringify(pingentes));
-sessionStorage.setItem("PulseiraPrataMasc", JSON.stringify(pulseiras));
+sessionStorage.setItem("PulseirasPrataMasc", JSON.stringify(pulseiras));
