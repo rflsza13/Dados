@@ -34,15 +34,27 @@ const pingentes = [
 const pulseiras = [
     {
         titulo: "Pulseira Trança Baiana",
-        descrição: "",
+        descrição: "Uma descrição rápida sobre o produto!!",
         valor: "R$190",
+        img: ""
+    },
+    {
+        titulo: "Pulseira Trança Baiana",
+        descrição: "Uma descrição rápida sobre o produto!!",
+        valor: "R$180",
+        img: ""
+    },
+    {
+        titulo: "Pulseira Trança Baiana",
+        descrição: "Uma descrição rápida sobre o produto!!",
+        valor: "R$170",
         img: ""
     }
 ];
 
 //Exportação
-sessionStorage.setItem("aneisPrataMasc", JSON.stringify(aneis));
-sessionStorage.setItem("brincosPrataMasc", JSON.stringify(brincos));
-sessionStorage.setItem("correntesPrataMasc", JSON.stringify(correntes));
-sessionStorage.setItem("pingentesPrataMasc", JSON.stringify(pingentes));
-sessionStorage.setItem("pulseirasPrataMasc", JSON.stringify(pulseiras));
+sessionStorage.setItem("p_aneis_masc", JSON.stringify(aneis));
+sessionStorage.setItem("p_brincos_masc", JSON.stringify(brincos));
+sessionStorage.setItem("p_correntes_masc", JSON.stringify(correntes));
+sessionStorage.setItem("p_pingentes_masc", JSON.stringify(pingentes));
+sessionStorage.setItem("p_pulseira_masc", JSON.stringify(pulseiras));
